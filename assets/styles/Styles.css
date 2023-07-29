@@ -76,7 +76,6 @@ header .inner{
     left: 0;
     right: 0;
     margin: auto;
-    /*transition: all 0.5s;*/
 }
 
 #nav-button:before {
@@ -89,7 +88,6 @@ header .inner{
     left: 0;
     right: 0;
     margin: auto;
-    /*transition: all 0.4s;*/
 }
 
 aside {
@@ -205,7 +203,7 @@ aside nav ul li .click{
     border-radius: 10px;
     padding: 20px;
     border: 1px solid #CFCFCF;
-    box-shadow: 0mm 0mm 8px #E4E4E4;
+    box-shadow: 0 0 8px #E4E4E4;
 }
 
 .myMane {
@@ -217,7 +215,7 @@ table {
     margin-bottom: 20px;
     border-radius: 10px;
     border: 0.5px solid #CFCFCF;
-    box-shadow: 0mm 0mm 8px #E4E4E4;
+    box-shadow: 0 0 8px #E4E4E4;
     padding: 10px;
 }
 
@@ -266,7 +264,7 @@ aside nav ul li a {
 
 .dash-div h5 {
     letter-spacing: 1px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .dash-div h6 {
@@ -332,7 +330,7 @@ table thead th {
     text-transform: capitalize;
     letter-spacing: 1px;
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     cursor: default;
 
 }
@@ -486,7 +484,7 @@ table tbody tr:hover td {
     }
 
     #template > section {
-        padding: 0px;
+        padding: 0;
     }
     .col-md-3{
         padding: 0 50px !important;
